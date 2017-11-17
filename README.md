@@ -1,6 +1,8 @@
 # lost-in-zombies
 Single player action platformer game
 
+![game play](https://user-images.githubusercontent.com/21269499/32973999-e8488336-cc5f-11e7-9acf-c241f05e232c.PNG)
+
 					Authors:
 
 				  Alyana Rodriguez
