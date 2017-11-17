@@ -1,0 +1,16 @@
+#ifndef __DROPTYPE_H__
+#define __DROPTYPE_H__
+
+
+enum DropType
+{
+	HEALTH_PACK,
+	AMMO_PACK,
+	MAX_HEALTH_PACK,
+	MAX_AMMO_PACK,
+	ONE_HIT_KILL,
+	FREEZE,
+	DOUBLE_SHOOT_SPEED
+};
+
+#endif // __DROPTYPE_H__
